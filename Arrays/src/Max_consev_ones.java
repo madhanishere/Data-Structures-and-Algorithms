@@ -15,7 +15,6 @@ public class Max_consev_ones {
             }
         }
         fin_count = Math.max(fin_count, count);
-        System.out.println();
         System.out.println(fin_count);
     }
 }
