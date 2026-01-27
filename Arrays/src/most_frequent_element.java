@@ -17,7 +17,7 @@ public class most_frequent_element{
             count=0;
 
         }
-        System.out.println(maxcount);
+
         System.out.println(ele);
     }
 }
