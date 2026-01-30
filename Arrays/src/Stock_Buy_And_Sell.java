@@ -10,8 +10,8 @@ public class Stock_Buy_And_Sell {
             else {
                 max = Math.max(max, arr[i] - min);
             }
-
         }
         System.out.println(max);
+        System.out.println();
     }
 }
